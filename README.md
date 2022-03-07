@@ -1,0 +1,18 @@
+## raven-user 12 SQ1D.220205.003 8069835 release-keys
+- Manufacturer: xiaomi
+- Platform: trinket
+- Codename: ginkgo
+- Brand: Xiaomi
+- Flavor: xdroid_ginkgo-user
+- Release Version: 12
+- Id: SQ1D.220205.003
+- Incremental: eng.endi.20220222.081442
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: google/raven/raven:12/SQ1D.220205.003/8069835:user/release-keys
+- OTA version: 
+- Branch: raven-user-12-SQ1D.220205.003-8069835-release-keys
+- Repo: xiaomi_ginkgo_dump
